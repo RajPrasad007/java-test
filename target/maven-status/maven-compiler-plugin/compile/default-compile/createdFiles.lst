@@ -1,0 +1,16 @@
+org/apache/struts/loginstruts/UserDetails.class
+org/apache/struts/loginstruts/ProcessBooking.class
+org/apache/struts/loginstruts/TestConnection.class
+org/apache/struts/loginstruts/ProcessAdminLogin.class
+org/apache/struts/loginstruts/Logout.class
+org/apache/struts/loginstruts/UsernameServlet.class
+org/apache/struts/loginstruts/ProcessSettings.class
+org/apache/struts/loginstruts/TestServlet.class
+org/apache/struts/loginstruts/AdminAuthenticationFilter.class
+org/apache/struts/loginstruts/ProcessRegistration.class
+org/apache/struts/loginstruts/UserAuthenticationFilter.class
+org/apache/struts/loginstruts/BookingDetails.class
+org/apache/struts/loginstruts/Booking.class
+org/apache/struts/loginstruts/Packages.class
+org/apache/struts/loginstruts/ProcessLogin.class
+org/apache/struts/loginstruts/ProcessTourPackage.class
